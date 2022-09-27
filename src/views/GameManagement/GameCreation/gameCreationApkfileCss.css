@@ -1,0 +1,89 @@
+.upload_wrapper, .rtl_wrapper,.validation_wrapper {
+    /* max-width: 400px; */
+	margin: auto;
+}
+
+.upload_wrapper .e-upload, .rtl_wrapper .e-upload, .validation_wrapper .e-upload {
+    width: 100%;
+    position: relative;
+    margin-top: 15px;
+}
+
+.upload_wrapper .e-upload .e-upload-drag-hover, .rtl_wrapper .e-upload .e-upload-drag-hover,  .validation_wrapper .e-upload .e-upload-drag-hover {
+    margin: 0;
+}
+
+.property-section.preload-panel .property-panel-section {
+    position: relative;
+    /* padding-left: 30px; */
+}
+.e-bigger .property-section.preload-panel {
+	position: relative;
+    /* padding-left: 35px; */
+}
+.property-section .chunk-table {
+    width: 100%;
+    margin-top: 15px;
+}
+.chunk-td {
+    width: 50%;
+}
+
+.default-check {
+    margin-left: 50px;
+    padding-top: 25px;
+}
+
+.panel-style {
+    padding-top: 25px;
+}
+#chunkUpload{
+    display:none
+}
+button.e-css.e-btn {
+    padding: 10px;
+    border: none;
+    color: #fff;
+    background-color: #5E35B1;
+    border-radius: 5px;
+    margin-right: 5px;
+    cursor: pointer;
+}
+.e-file-select-wrap {
+    border: 1px solid rgb(80, 80, 80);
+    padding: 10px;
+    border-radius: 5px;
+}
+span.e-file-drop {
+    display: none;
+}
+
+span.e-file-size {
+    display: block;
+    padding: 5px 0;
+    font-size: 16px;
+}
+span.e-file-status.e-upload-success {
+    color: rgb(15, 148, 15);
+    font-weight: 500;
+    display:none;
+}
+li.e-upload-file-list.e-upload-success {
+    list-style: none;
+}
+span.e-file-name {
+    /* list-style: none; */
+    
+    font-size: 16px;
+}
+ul.e-upload-files {
+    padding-left: 0;
+}
+span.e-progress-bar-text {
+    font-size: 18px;
+    padding: 10px 0;
+
+}
+span.e-file-status.e-validation-fails{
+    display: none;
+}

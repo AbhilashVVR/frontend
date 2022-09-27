@@ -1,0 +1,36 @@
+.FlexButton{
+    display: flex;
+    margin-bottom: 15px;
+}
+.FlexButton_uploadText{
+    width: 100%;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    padding-top: 14px;
+    padding-bottom: 13px;
+    padding-left: 1%;
+    color:rgb(167, 157, 157)
+}
+.FlexButton_uploadText:hover{
+    border: 1px solid rgb(54, 54, 54);
+    cursor: pointer;
+  
+}
+.FlexButton2{
+    display: flex;
+    margin-bottom: 15px;
+}
+.FlexButton_uploadText2{
+    width: 100%;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    padding-top: 14px;
+    padding-bottom: 13px;
+    padding-left: 1%;
+    color:rgb(167, 157, 157)
+}
+.FlexButton_uploadText2:hover{
+    border: 1px solid rgb(54, 54, 54);
+    cursor: pointer;
+  
+}
