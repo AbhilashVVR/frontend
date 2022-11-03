@@ -7,7 +7,8 @@ const config = {
   borderRadius: 12,
   //apiServer: "http://3.108.149.41/api",
   //apiServer: "http://localhost:3001/api",
-  apiServer: "https://lingo-backend-app.herokuapp.com/api",
+  //apiServer: "https://lingo-backend-app.herokuapp.com/api",
+  apiServer: "http://13.232.44.17:3001/api",
 };
 
 export default config;
